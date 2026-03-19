@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body> 
-<body style="background-color:green;">
+<body style="background-color:gray;">
 <h1 style="text-align:center;">Professional Portfolio </h1>
 <h1 style="text-align:center;">Berhe Syum Mebrhatu </h1>
 <h1 style="text-align:center;">Raya University</h1>
