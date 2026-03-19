@@ -2,8 +2,8 @@
 <html>
 <body> 
 <body style="background-color:green;">
-<h1 style="text-align:center;">PROFOSSIONAL PORTFOLIO</h1>
-<h1 style="text-align:center;">BERHE SYUM MEBRAHTU </h1>
+<h1 style="text-align:center;">Professional Portfolio </h1>
+<h1 style="text-align:center;">Berhe Syum Mebrhatu </h1>
 <h1 style="text-align:center;">Raya University</h1>
 <h1 style="text-align:center;">Manufacturing Egineering Department</h1>
 <P style="text-align:center;"> Senior Lecturer, at Raya University</P>
@@ -20,18 +20,14 @@
 <h1 style="color:blue;">Objective: </h1>
 <P> * To obtain a teaching position where I can utilize my knowledge of advanced teaching methods such as team learning and e-learning.</P>
 <P> * To Develop and promote creativity and high-order thinking skills that increase the performance of the students. </P>.
-
 <h1 style="color:blue;">Experience: </h1>
 <p> At Debre Tabor University from 13, 11, 2018 to 4,10,2016 as Lecturer of Mechanical Engineering. </p>
-
 <p> At Debre Tabor University from 11, 08, 2015 to 04, 10, 2016, as Assistance Lecture of Mechanical Engineering. </p>
 <p> At Raya University  from October 10,2021 upto Present As Lecturer of Manufacturing Engineering. </p>  
-
 <h1 style="color:blue;">Education: </h1>	
 <p> At Addis Ababa University, Addis Ababa Institute of Technology, Master of Science in Industrial Engineering, from 5,10,2016 to 12,11,2018. </p>
 <p> At Wollo University, Kombolcha Institute of Technology BSc. in Mechanical Engineering from 20,9,2011 to 02,7,2015. </p>
 <p> At Debre Tabor University: Higher Diploma License in Professional Teacher Education from 10,9,2020 to 15,3,2021. </p>
-
 <h1 style="color:blue;">Skills: </h1>	
 <p> Computer Aided Design/CAD/, Solid work, MATLAB, Arena Simulation, LINGO and LINDO, LP, AHP, SPSS, TOPSIS and Liken Scheduler.</p>
 <h1 style="color:blue;">Certificate of Achievements & Awards: </h1>
@@ -49,8 +45,6 @@
 <P> 3.	In Raya University, Delegated as Manufacturing Engineering department head, 13/01/2018 E.C, Ref No. ራዩ/ኢቴኮ/ማኢ/0161/2018 E.C.</P>
 <P> 4.	In Debre Tabor University, Delegated as Mechanical Engineering department head, 26/05/2013 E.C, Ref No. ደታዩ/ኢ/405/18/13.</P>
 <P> 5.	Assigned as Department Graduation and Exit Exam Committee by Raya University Manufacturing Engineering Department 24/03/2016 E.C, Ref No. ራዩ/ኢቴኮ/ማኢ/030/2016 E.C.</P>
-
-
 </body>
 </html>
 
